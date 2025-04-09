@@ -78,7 +78,7 @@ eConnect is a social networking application built with ASP.NET Core Web API and 
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/icoder-mee/eConnect.git
+    git clone https://github.com/achyutp10/eConnect.git
     cd eConnect/API
     ```
 
